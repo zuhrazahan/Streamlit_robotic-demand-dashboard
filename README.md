@@ -9,7 +9,7 @@ Robotics is moving out of factories and into warehouses, hospitals, farms and cl
 ![Plotly](https://img.shields.io/badge/Plotly-Charts-3F4F75?logo=plotly&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-🔗 **Live demo:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app)  <!-- replace after deploying -->
+🔗 **Live demo:** [your-app-name.streamlit.app](https://robo.py)  <!-- replace after deploying -->
 
 ![Dashboard preview](screenshots/dashboard.png)  <!-- add a screenshot or GIF -->
 
@@ -99,7 +99,7 @@ Suggestions and pull requests are welcome. Open an issue to discuss what you'd l
 **Fathima TH Zuhra C**: Data Science & Robotics Trainer, Calicut, Kerala
 I teach Python, data analysis (Excel, Power BI) and hands-on robotics with Arduino to school and college students, and I'm now exploring AI automation.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 📧 your-email@example.com  <!-- update links -->
+🔗 [LinkedIn](https://www.linkedin.com/in/zuhrazahan) · 📧 your-email@example.com  <!-- update links -->
 
 ---
 
