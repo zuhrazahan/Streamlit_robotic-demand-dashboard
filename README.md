@@ -7,7 +7,7 @@ Robotics is moving out of factories and into warehouses, hospitals, farms and cl
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Charts-3F4F75?logo=plotly&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 🔗 **Live demo:** [your-app-name.streamlit.app](https://robo.py)  <!-- replace after deploying -->
 
@@ -42,8 +42,8 @@ This dashboard answers those questions visually, so anyone can explore the trend
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/robotics-demand-dashboard.git
-cd robotics-demand-dashboard
+git clone https://github.com/zuhrazahan/Streamlit_robotic-demand-dashboard.git
+cd robo
 
 # 2. (Optional) create a virtual environment
 python -m venv venv
@@ -53,7 +53,7 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # 4. Run the app
-streamlit run robotics_demand_app.py
+robo.py
 ```
 
 `requirements.txt`
@@ -75,7 +75,7 @@ robotics-demand-dashboard/
 
 ## 📊 Data & Sources
 
-The data tables sit at the top of `robotics_demand_app.py` and are easy to edit.
+The data tables sit at the top of `robo.py` and are easy to edit.
 
 > ⚠️ **Note:** Replace the sample values with figures from your own sources and list them here, for example:
 > - IFR *World Robotics* report
